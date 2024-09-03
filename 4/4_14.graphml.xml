@@ -1,0 +1,931 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="VECTOR_2" attr.type="string" for="node" id="d76" />
+  <key attr.name="VECTOR_0" attr.type="string" for="node" id="d75" />
+  <key attr.name="LINE_0" attr.type="string" for="node" id="d74" />
+  <key attr.name="CIRCLE_2" attr.type="string" for="node" id="d73" />
+  <key attr.name="CIRCLE_0" attr.type="string" for="node" id="d72" />
+  <key attr.name="VERTEX_POINT_0" attr.type="string" for="node" id="d71" />
+  <key attr.name="EDGE_CURVE_4" attr.type="string" for="node" id="d70" />
+  <key attr.name="EDGE_CURVE_0" attr.type="string" for="node" id="d69" />
+  <key attr.name="ORIENTED_EDGE_4" attr.type="string" for="node" id="d68" />
+  <key attr.name="ORIENTED_EDGE_2" attr.type="string" for="node" id="d67" />
+  <key attr.name="ORIENTED_EDGE_1" attr.type="string" for="node" id="d66" />
+  <key attr.name="ORIENTED_EDGE_0" attr.type="string" for="node" id="d65" />
+  <key attr.name="EDGE_LOOP_0" attr.type="string" for="node" id="d64" />
+  <key attr.name="PLANE_0" attr.type="string" for="node" id="d63" />
+  <key attr.name="CYLINDRICAL_SURFACE_2" attr.type="string" for="node" id="d62" />
+  <key attr.name="CYLINDRICAL_SURFACE_0" attr.type="string" for="node" id="d61" />
+  <key attr.name="FACE_OUTER_BOUND_2" attr.type="string" for="node" id="d60" />
+  <key attr.name="FACE_OUTER_BOUND_0" attr.type="string" for="node" id="d59" />
+  <key attr.name="ADVANCED_FACE_3" attr.type="string" for="node" id="d58" />
+  <key attr.name="ADVANCED_FACE_0" attr.type="string" for="node" id="d57" />
+  <key attr.name="DIRECTION_3" attr.type="string" for="node" id="d56" />
+  <key attr.name="DIRECTION_2" attr.type="string" for="node" id="d55" />
+  <key attr.name="DIRECTION_1" attr.type="string" for="node" id="d54" />
+  <key attr.name="DIRECTION_0" attr.type="string" for="node" id="d53" />
+  <key attr.name="CARTESIAN_POINT_3" attr.type="string" for="node" id="d52" />
+  <key attr.name="CARTESIAN_POINT_2" attr.type="string" for="node" id="d51" />
+  <key attr.name="CARTESIAN_POINT_1" attr.type="string" for="node" id="d50" />
+  <key attr.name="CARTESIAN_POINT_0" attr.type="string" for="node" id="d49" />
+  <key attr.name="CLOSED_SHELL_0" attr.type="string" for="node" id="d48" />
+  <key attr.name="PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE_3" attr.type="string" for="node" id="d47" />
+  <key attr.name="PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE_1" attr.type="string" for="node" id="d46" />
+  <key attr.name="PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE_0" attr.type="string" for="node" id="d45" />
+  <key attr.name="PRODUCT_CONTEXT_2" attr.type="string" for="node" id="d44" />
+  <key attr.name="PRODUCT_CONTEXT_0" attr.type="string" for="node" id="d43" />
+  <key attr.name="DIMENSIONAL_EXPONENTS_6" attr.type="string" for="node" id="d42" />
+  <key attr.name="DIMENSIONAL_EXPONENTS_5" attr.type="string" for="node" id="d41" />
+  <key attr.name="DIMENSIONAL_EXPONENTS_4" attr.type="string" for="node" id="d40" />
+  <key attr.name="DIMENSIONAL_EXPONENTS_3" attr.type="string" for="node" id="d39" />
+  <key attr.name="DIMENSIONAL_EXPONENTS_2" attr.type="string" for="node" id="d38" />
+  <key attr.name="DIMENSIONAL_EXPONENTS_1" attr.type="string" for="node" id="d37" />
+  <key attr.name="DIMENSIONAL_EXPONENTS_0" attr.type="string" for="node" id="d36" />
+  <key attr.name="LENGTH_MEASURE_WITH_UNIT_0" attr.type="string" for="node" id="d35" />
+  <key attr.name="AXIS2_PLACEMENT_3D_0" attr.type="string" for="node" id="d34" />
+  <key attr.name="MANIFOLD_SOLID_BREP_0" attr.type="string" for="node" id="d33" />
+  <key attr.name="PRODUCT_DEFINITION_1" attr.type="string" for="node" id="d32" />
+  <key attr.name="PRODUCT_DEFINITION_0" attr.type="string" for="node" id="d31" />
+  <key attr.name="PRODUCT_2" attr.type="string" for="node" id="d30" />
+  <key attr.name="PRODUCT_1" attr.type="string" for="node" id="d29" />
+  <key attr.name="PRODUCT_0" attr.type="string" for="node" id="d28" />
+  <key attr.name="SOLID_ANGLE_UNIT_0" attr.type="string" for="node" id="d27" />
+  <key attr.name="SI_UNIT_1" attr.type="string" for="node" id="d26" />
+  <key attr.name="SI_UNIT_0" attr.type="string" for="node" id="d25" />
+  <key attr.name="PLANE_ANGLE_UNIT_0" attr.type="string" for="node" id="d24" />
+  <key attr.name="LENGTH_UNIT_0" attr.type="string" for="node" id="d23" />
+  <key attr.name="CONVERSION_BASED_UNIT_0" attr.type="string" for="node" id="d22" />
+  <key attr.name="UNCERTAINTY_MEASURE_WITH_UNIT_3" attr.type="string" for="node" id="d21" />
+  <key attr.name="UNCERTAINTY_MEASURE_WITH_UNIT_2" attr.type="string" for="node" id="d20" />
+  <key attr.name="UNCERTAINTY_MEASURE_WITH_UNIT_0" attr.type="string" for="node" id="d19" />
+  <key attr.name="ADVANCED_BREP_SHAPE_REPRESENTATION_0" attr.type="string" for="node" id="d18" />
+  <key attr.name="PRODUCT_DEFINITION_SHAPE_1" attr.type="string" for="node" id="d17" />
+  <key attr.name="PRODUCT_DEFINITION_SHAPE_0" attr.type="string" for="node" id="d16" />
+  <key attr.name="PRODUCT_RELATED_PRODUCT_CATEGORY_1" attr.type="string" for="node" id="d15" />
+  <key attr.name="PRODUCT_RELATED_PRODUCT_CATEGORY_0" attr.type="string" for="node" id="d14" />
+  <key attr.name="PRODUCT_CATEGORY_1" attr.type="string" for="node" id="d13" />
+  <key attr.name="PRODUCT_CATEGORY_0" attr.type="string" for="node" id="d12" />
+  <key attr.name="APPLICATION_CONTEXT_0" attr.type="string" for="node" id="d11" />
+  <key attr.name="REPRESENTATION_CONTEXT_1" attr.type="string" for="node" id="d10" />
+  <key attr.name="REPRESENTATION_CONTEXT_0" attr.type="string" for="node" id="d9" />
+  <key attr.name="GEOMETRIC_REPRESENTATION_CONTEXT_0" attr.type="string" for="node" id="d8" />
+  <key attr.name="PRODUCT_CATEGORY_RELATIONSHIP_1" attr.type="string" for="node" id="d7" />
+  <key attr.name="PRODUCT_CATEGORY_RELATIONSHIP_0" attr.type="string" for="node" id="d6" />
+  <key attr.name="APPLICATION_PROTOCOL_DEFINITION_2" attr.type="string" for="node" id="d5" />
+  <key attr.name="APPLICATION_PROTOCOL_DEFINITION_1" attr.type="string" for="node" id="d4" />
+  <key attr.name="APPLICATION_PROTOCOL_DEFINITION_0" attr.type="string" for="node" id="d3" />
+  <key attr.name="PRODUCT_DEFINITION_CONTEXT_2" attr.type="string" for="node" id="d2" />
+  <key attr.name="PRODUCT_DEFINITION_CONTEXT_0" attr.type="string" for="node" id="d1" />
+  <key attr.name="type" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="#1">
+      <data key="d0">PRODUCT_DEFINITION_CONTEXT</data>
+      <data key="d1" />
+      <data key="d2">design</data>
+    </node>
+    <node id="#2">
+      <data key="d0">APPLICATION_PROTOCOL_DEFINITION</data>
+      <data key="d3">INTERNATIONAL STANDARD</data>
+      <data key="d4">ap242_managed_model_based_3d_engineering</data>
+      <data key="d5">2014</data>
+    </node>
+    <node id="#3">
+      <data key="d0">PRODUCT_CATEGORY_RELATIONSHIP</data>
+      <data key="d6">NONE</data>
+      <data key="d7">NONE</data>
+    </node>
+    <node id="#4">
+      <data key="d0">SHAPE_DEFINITION_REPRESENTATION</data>
+    </node>
+    <node id="##0">
+      <data key="d0">GEOMETRIC_REPRESENTATION_CONTEXT</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="##1">
+      <data key="d0">GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT</data>
+    </node>
+    <node id="##2">
+      <data key="d0">GLOBAL_UNIT_ASSIGNED_CONTEXT</data>
+    </node>
+    <node id="##3">
+      <data key="d0">REPRESENTATION_CONTEXT</data>
+      <data key="d9">NONE</data>
+      <data key="d10">WORKSPACE</data>
+    </node>
+    <node id="#5">
+      <data key="d0">COMPOSED_GEOMETRIC_REPRESENTATION_CONTEXT</data>
+    </node>
+    <node id="#9">
+      <data key="d0">APPLICATION_CONTEXT</data>
+      <data key="d11">managed model based 3d engineering</data>
+    </node>
+    <node id="#10">
+      <data key="d0">PRODUCT_CATEGORY</data>
+      <data key="d12">part</data>
+      <data key="d13">NONE</data>
+    </node>
+    <node id="#11">
+      <data key="d0">PRODUCT_RELATED_PRODUCT_CATEGORY</data>
+      <data key="d14">detail</data>
+      <data key="d15"> </data>
+    </node>
+    <node id="#12">
+      <data key="d0">PRODUCT_DEFINITION_SHAPE</data>
+      <data key="d16">NONE</data>
+      <data key="d17">NONE</data>
+    </node>
+    <node id="#13">
+      <data key="d0">ADVANCED_BREP_SHAPE_REPRESENTATION</data>
+      <data key="d18">00900661</data>
+    </node>
+    <node id="#16">
+      <data key="d0">UNCERTAINTY_MEASURE_WITH_UNIT</data>
+      <data key="d19">1.0E-06</data>
+      <data key="d20" />
+      <data key="d21" />
+    </node>
+    <node id="##4">
+      <data key="d0">CONVERSION_BASED_UNIT</data>
+      <data key="d22">MILLIMETRE</data>
+    </node>
+    <node id="##5">
+      <data key="d0">LENGTH_UNIT</data>
+      <data key="d23" />
+    </node>
+    <node id="##6">
+      <data key="d0">NAMED_UNIT</data>
+    </node>
+    <node id="#18">
+      <data key="d0">COMPOSED_CONVERSION_BASED_UNIT</data>
+    </node>
+    <node id="##7">
+      <data key="d0">NAMED_UNIT</data>
+    </node>
+    <node id="##8">
+      <data key="d0">PLANE_ANGLE_UNIT</data>
+      <data key="d24" />
+    </node>
+    <node id="##9">
+      <data key="d0">SI_UNIT</data>
+      <data key="d25">$</data>
+      <data key="d26">.RADIAN.</data>
+    </node>
+    <node id="#19">
+      <data key="d0">COMPOSED_NAMED_UNIT</data>
+    </node>
+    <node id="##10">
+      <data key="d0">NAMED_UNIT</data>
+    </node>
+    <node id="##11">
+      <data key="d0">SOLID_ANGLE_UNIT</data>
+      <data key="d27" />
+    </node>
+    <node id="##12">
+      <data key="d0">SI_UNIT</data>
+      <data key="d25">$</data>
+      <data key="d26">.STERADIAN.</data>
+    </node>
+    <node id="#20">
+      <data key="d0">COMPOSED_NAMED_UNIT</data>
+    </node>
+    <node id="#22">
+      <data key="d0">PRODUCT</data>
+      <data key="d28">00900661</data>
+      <data key="d29">00900661</data>
+      <data key="d30">PART-00900661-DESC</data>
+    </node>
+    <node id="#23">
+      <data key="d0">PRODUCT_DEFINITION</data>
+      <data key="d31" />
+      <data key="d32">NONE</data>
+    </node>
+    <node id="#24">
+      <data key="d0">MANIFOLD_SOLID_BREP</data>
+      <data key="d33">00900661</data>
+    </node>
+    <node id="#25">
+      <data key="d0">AXIS2_PLACEMENT_3D</data>
+      <data key="d34" />
+    </node>
+    <node id="#28">
+      <data key="d0">LENGTH_MEASURE_WITH_UNIT</data>
+      <data key="d35">1.0</data>
+    </node>
+    <node id="#31">
+      <data key="d0">DIMENSIONAL_EXPONENTS</data>
+      <data key="d36">1.0</data>
+      <data key="d37">0.0</data>
+      <data key="d38">0.0</data>
+      <data key="d39">0.0</data>
+      <data key="d40">0.0</data>
+      <data key="d41">0.0</data>
+      <data key="d42">0.0</data>
+    </node>
+    <node id="#33">
+      <data key="d0">DIMENSIONAL_EXPONENTS</data>
+      <data key="d36">0.0</data>
+      <data key="d37">0.0</data>
+      <data key="d38">0.0</data>
+      <data key="d39">0.0</data>
+      <data key="d40">0.0</data>
+      <data key="d41">0.0</data>
+      <data key="d42">0.0</data>
+    </node>
+    <node id="#39">
+      <data key="d0">PRODUCT_CONTEXT</data>
+      <data key="d43" />
+      <data key="d44">mechanical</data>
+    </node>
+    <node id="#40">
+      <data key="d0">PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE</data>
+      <data key="d45"> </data>
+      <data key="d46">NONE</data>
+      <data key="d47">.NOT_KNOWN.</data>
+    </node>
+    <node id="#41">
+      <data key="d0">CLOSED_SHELL</data>
+      <data key="d48" />
+    </node>
+    <node id="#42">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">0.0</data>
+      <data key="d51">0.0</data>
+      <data key="d52">0.0</data>
+    </node>
+    <node id="#43">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">0.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">1.0</data>
+    </node>
+    <node id="#44">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">1.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">0.0</data>
+    </node>
+    <node id="##13">
+      <data key="d0">NAMED_UNIT</data>
+    </node>
+    <node id="##14">
+      <data key="d0">LENGTH_UNIT</data>
+      <data key="d23" />
+    </node>
+    <node id="##15">
+      <data key="d0">SI_UNIT</data>
+      <data key="d25">.MILLI.</data>
+      <data key="d26">.METRE.</data>
+    </node>
+    <node id="#45">
+      <data key="d0">COMPOSED_NAMED_UNIT</data>
+    </node>
+    <node id="#46">
+      <data key="d0">ADVANCED_FACE</data>
+      <data key="d57">NONE</data>
+      <data key="d58">.T.</data>
+    </node>
+    <node id="#47">
+      <data key="d0">ADVANCED_FACE</data>
+      <data key="d57">NONE</data>
+      <data key="d58">.T.</data>
+    </node>
+    <node id="#48">
+      <data key="d0">ADVANCED_FACE</data>
+      <data key="d57">NONE</data>
+      <data key="d58">.T.</data>
+    </node>
+    <node id="#49">
+      <data key="d0">ADVANCED_FACE</data>
+      <data key="d57">NONE</data>
+      <data key="d58">.F.</data>
+    </node>
+    <node id="#51">
+      <data key="d0">FACE_OUTER_BOUND</data>
+      <data key="d59" />
+      <data key="d60">.T.</data>
+    </node>
+    <node id="#52">
+      <data key="d0">CYLINDRICAL_SURFACE</data>
+      <data key="d61" />
+      <data key="d62">19.05</data>
+    </node>
+    <node id="#53">
+      <data key="d0">FACE_OUTER_BOUND</data>
+      <data key="d59" />
+      <data key="d60">.T.</data>
+    </node>
+    <node id="#54">
+      <data key="d0">CYLINDRICAL_SURFACE</data>
+      <data key="d61" />
+      <data key="d62">19.05</data>
+    </node>
+    <node id="#55">
+      <data key="d0">FACE_OUTER_BOUND</data>
+      <data key="d59" />
+      <data key="d60">.T.</data>
+    </node>
+    <node id="#56">
+      <data key="d0">PLANE</data>
+      <data key="d63" />
+    </node>
+    <node id="#57">
+      <data key="d0">FACE_OUTER_BOUND</data>
+      <data key="d59" />
+      <data key="d60">.T.</data>
+    </node>
+    <node id="#58">
+      <data key="d0">PLANE</data>
+      <data key="d63" />
+    </node>
+    <node id="#59">
+      <data key="d0">EDGE_LOOP</data>
+      <data key="d64" />
+    </node>
+    <node id="#60">
+      <data key="d0">AXIS2_PLACEMENT_3D</data>
+      <data key="d34" />
+    </node>
+    <node id="#61">
+      <data key="d0">EDGE_LOOP</data>
+      <data key="d64" />
+    </node>
+    <node id="#62">
+      <data key="d0">AXIS2_PLACEMENT_3D</data>
+      <data key="d34" />
+    </node>
+    <node id="#63">
+      <data key="d0">EDGE_LOOP</data>
+      <data key="d64" />
+    </node>
+    <node id="#64">
+      <data key="d0">AXIS2_PLACEMENT_3D</data>
+      <data key="d34" />
+    </node>
+    <node id="#65">
+      <data key="d0">EDGE_LOOP</data>
+      <data key="d64" />
+    </node>
+    <node id="#66">
+      <data key="d0">AXIS2_PLACEMENT_3D</data>
+      <data key="d34" />
+    </node>
+    <node id="#67">
+      <data key="d0">ORIENTED_EDGE</data>
+      <data key="d65" />
+      <data key="d66">*</data>
+      <data key="d67">*</data>
+      <data key="d68">.F.</data>
+    </node>
+    <node id="#68">
+      <data key="d0">ORIENTED_EDGE</data>
+      <data key="d65" />
+      <data key="d66">*</data>
+      <data key="d67">*</data>
+      <data key="d68">.T.</data>
+    </node>
+    <node id="#69">
+      <data key="d0">ORIENTED_EDGE</data>
+      <data key="d65" />
+      <data key="d66">*</data>
+      <data key="d67">*</data>
+      <data key="d68">.T.</data>
+    </node>
+    <node id="#70">
+      <data key="d0">ORIENTED_EDGE</data>
+      <data key="d65" />
+      <data key="d66">*</data>
+      <data key="d67">*</data>
+      <data key="d68">.F.</data>
+    </node>
+    <node id="#71">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">0.0</data>
+      <data key="d51">0.0</data>
+      <data key="d52">914.4</data>
+    </node>
+    <node id="#72">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">0.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">1.0</data>
+    </node>
+    <node id="#73">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">-1.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">0.0</data>
+    </node>
+    <node id="#74">
+      <data key="d0">ORIENTED_EDGE</data>
+      <data key="d65" />
+      <data key="d66">*</data>
+      <data key="d67">*</data>
+      <data key="d68">.F.</data>
+    </node>
+    <node id="#75">
+      <data key="d0">ORIENTED_EDGE</data>
+      <data key="d65" />
+      <data key="d66">*</data>
+      <data key="d67">*</data>
+      <data key="d68">.F.</data>
+    </node>
+    <node id="#76">
+      <data key="d0">ORIENTED_EDGE</data>
+      <data key="d65" />
+      <data key="d66">*</data>
+      <data key="d67">*</data>
+      <data key="d68">.T.</data>
+    </node>
+    <node id="#77">
+      <data key="d0">ORIENTED_EDGE</data>
+      <data key="d65" />
+      <data key="d66">*</data>
+      <data key="d67">*</data>
+      <data key="d68">.T.</data>
+    </node>
+    <node id="#78">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">0.0</data>
+      <data key="d51">0.0</data>
+      <data key="d52">914.4</data>
+    </node>
+    <node id="#79">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">0.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">1.0</data>
+    </node>
+    <node id="#80">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">-1.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">0.0</data>
+    </node>
+    <node id="#81">
+      <data key="d0">ORIENTED_EDGE</data>
+      <data key="d65" />
+      <data key="d66">*</data>
+      <data key="d67">*</data>
+      <data key="d68">.T.</data>
+    </node>
+    <node id="#82">
+      <data key="d0">ORIENTED_EDGE</data>
+      <data key="d65" />
+      <data key="d66">*</data>
+      <data key="d67">*</data>
+      <data key="d68">.T.</data>
+    </node>
+    <node id="#83">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">0.0</data>
+      <data key="d51">0.0</data>
+      <data key="d52">914.4</data>
+    </node>
+    <node id="#84">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">0.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">1.0</data>
+    </node>
+    <node id="#85">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">1.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">0.0</data>
+    </node>
+    <node id="#86">
+      <data key="d0">ORIENTED_EDGE</data>
+      <data key="d65" />
+      <data key="d66">*</data>
+      <data key="d67">*</data>
+      <data key="d68">.F.</data>
+    </node>
+    <node id="#87">
+      <data key="d0">ORIENTED_EDGE</data>
+      <data key="d65" />
+      <data key="d66">*</data>
+      <data key="d67">*</data>
+      <data key="d68">.F.</data>
+    </node>
+    <node id="#88">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">0.0</data>
+      <data key="d51">0.0</data>
+      <data key="d52">0.0</data>
+    </node>
+    <node id="#89">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">0.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">1.0</data>
+    </node>
+    <node id="#90">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">1.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">0.0</data>
+    </node>
+    <node id="#91">
+      <data key="d0">EDGE_CURVE</data>
+      <data key="d69">NONE</data>
+      <data key="d70">.T.</data>
+    </node>
+    <node id="#92">
+      <data key="d0">EDGE_CURVE</data>
+      <data key="d69">NONE</data>
+      <data key="d70">.T.</data>
+    </node>
+    <node id="#93">
+      <data key="d0">EDGE_CURVE</data>
+      <data key="d69">NONE</data>
+      <data key="d70">.T.</data>
+    </node>
+    <node id="#94">
+      <data key="d0">EDGE_CURVE</data>
+      <data key="d69">NONE</data>
+      <data key="d70">.T.</data>
+    </node>
+    <node id="#95">
+      <data key="d0">EDGE_CURVE</data>
+      <data key="d69">NONE</data>
+      <data key="d70">.T.</data>
+    </node>
+    <node id="#96">
+      <data key="d0">EDGE_CURVE</data>
+      <data key="d69">NONE</data>
+      <data key="d70">.T.</data>
+    </node>
+    <node id="#97">
+      <data key="d0">VERTEX_POINT</data>
+      <data key="d71">NONE</data>
+    </node>
+    <node id="#98">
+      <data key="d0">VERTEX_POINT</data>
+      <data key="d71">NONE</data>
+    </node>
+    <node id="#99">
+      <data key="d0">CIRCLE</data>
+      <data key="d72" />
+      <data key="d73">19.05</data>
+    </node>
+    <node id="#100">
+      <data key="d0">VERTEX_POINT</data>
+      <data key="d71">NONE</data>
+    </node>
+    <node id="#101">
+      <data key="d0">LINE</data>
+      <data key="d74" />
+    </node>
+    <node id="#102">
+      <data key="d0">VERTEX_POINT</data>
+      <data key="d71">NONE</data>
+    </node>
+    <node id="#103">
+      <data key="d0">CIRCLE</data>
+      <data key="d72" />
+      <data key="d73">19.05</data>
+    </node>
+    <node id="#104">
+      <data key="d0">LINE</data>
+      <data key="d74" />
+    </node>
+    <node id="#105">
+      <data key="d0">CIRCLE</data>
+      <data key="d72" />
+      <data key="d73">19.05</data>
+    </node>
+    <node id="#106">
+      <data key="d0">CIRCLE</data>
+      <data key="d72" />
+      <data key="d73">19.05</data>
+    </node>
+    <node id="#107">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">19.05</data>
+      <data key="d51">2.33295215237571E-15</data>
+      <data key="d52">914.4</data>
+    </node>
+    <node id="#108">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">-19.05</data>
+      <data key="d51">0.0</data>
+      <data key="d52">914.4</data>
+    </node>
+    <node id="#109">
+      <data key="d0">AXIS2_PLACEMENT_3D</data>
+      <data key="d34" />
+    </node>
+    <node id="#110">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">19.05</data>
+      <data key="d51">2.33295215237571E-15</data>
+      <data key="d52">0.0</data>
+    </node>
+    <node id="#111">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">19.05</data>
+      <data key="d51">2.33295215237571E-15</data>
+      <data key="d52">914.4</data>
+    </node>
+    <node id="#112">
+      <data key="d0">VECTOR</data>
+      <data key="d75" />
+      <data key="d76">1000.0</data>
+    </node>
+    <node id="#113">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">-19.05</data>
+      <data key="d51">0.0</data>
+      <data key="d52">0.0</data>
+    </node>
+    <node id="#114">
+      <data key="d0">AXIS2_PLACEMENT_3D</data>
+      <data key="d34" />
+    </node>
+    <node id="#115">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">-19.05</data>
+      <data key="d51">0.0</data>
+      <data key="d52">914.4</data>
+    </node>
+    <node id="#116">
+      <data key="d0">VECTOR</data>
+      <data key="d75" />
+      <data key="d76">1000.0</data>
+    </node>
+    <node id="#117">
+      <data key="d0">AXIS2_PLACEMENT_3D</data>
+      <data key="d34" />
+    </node>
+    <node id="#118">
+      <data key="d0">AXIS2_PLACEMENT_3D</data>
+      <data key="d34" />
+    </node>
+    <node id="#119">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">0.0</data>
+      <data key="d51">0.0</data>
+      <data key="d52">914.4</data>
+    </node>
+    <node id="#120">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">0.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">1.0</data>
+    </node>
+    <node id="#121">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">1.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">0.0</data>
+    </node>
+    <node id="#122">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">-0.0</data>
+      <data key="d55">-0.0</data>
+      <data key="d56">-1.0</data>
+    </node>
+    <node id="#123">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">0.0</data>
+      <data key="d51">0.0</data>
+      <data key="d52">0.0</data>
+    </node>
+    <node id="#124">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">0.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">1.0</data>
+    </node>
+    <node id="#125">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">1.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">0.0</data>
+    </node>
+    <node id="#126">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">-0.0</data>
+      <data key="d55">-0.0</data>
+      <data key="d56">-1.0</data>
+    </node>
+    <node id="#127">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">0.0</data>
+      <data key="d51">0.0</data>
+      <data key="d52">914.4</data>
+    </node>
+    <node id="#128">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">0.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">1.0</data>
+    </node>
+    <node id="#129">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">1.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">0.0</data>
+    </node>
+    <node id="#130">
+      <data key="d0">CARTESIAN_POINT</data>
+      <data key="d49" />
+      <data key="d50">0.0</data>
+      <data key="d51">0.0</data>
+      <data key="d52">0.0</data>
+    </node>
+    <node id="#131">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">0.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">1.0</data>
+    </node>
+    <node id="#132">
+      <data key="d0">DIRECTION</data>
+      <data key="d53" />
+      <data key="d54">1.0</data>
+      <data key="d55">0.0</data>
+      <data key="d56">0.0</data>
+    </node>
+    <edge source="#1" target="#9" />
+    <edge source="#2" target="#9" />
+    <edge source="#3" target="#10" />
+    <edge source="#3" target="#11" />
+    <edge source="#4" target="#12" />
+    <edge source="#4" target="#13" />
+    <edge source="##1" target="#16" />
+    <edge source="##2" target="#18" />
+    <edge source="##2" target="#19" />
+    <edge source="##2" target="#20" />
+    <edge source="#5" target="##0" />
+    <edge source="#5" target="##1" />
+    <edge source="#5" target="##2" />
+    <edge source="#5" target="##3" />
+    <edge source="#11" target="#22" />
+    <edge source="#12" target="#23" />
+    <edge source="#13" target="#24" />
+    <edge source="#13" target="#25" />
+    <edge source="#13" target="#5" />
+    <edge source="#16" target="#18" />
+    <edge source="##4" target="#28" />
+    <edge source="##6" target="#31" />
+    <edge source="#18" target="##4" />
+    <edge source="#18" target="##5" />
+    <edge source="#18" target="##6" />
+    <edge source="##7" target="#33" />
+    <edge source="#19" target="##7" />
+    <edge source="#19" target="##8" />
+    <edge source="#19" target="##9" />
+    <edge source="##10" target="#33" />
+    <edge source="#20" target="##10" />
+    <edge source="#20" target="##11" />
+    <edge source="#20" target="##12" />
+    <edge source="#22" target="#39" />
+    <edge source="#23" target="#40" />
+    <edge source="#23" target="#1" />
+    <edge source="#24" target="#41" />
+    <edge source="#25" target="#42" />
+    <edge source="#25" target="#43" />
+    <edge source="#25" target="#44" />
+    <edge source="#28" target="#45" />
+    <edge source="#39" target="#9" />
+    <edge source="#40" target="#22" />
+    <edge source="#41" target="#46" />
+    <edge source="#41" target="#47" />
+    <edge source="#41" target="#48" />
+    <edge source="#41" target="#49" />
+    <edge source="##13" target="#31" />
+    <edge source="#45" target="##13" />
+    <edge source="#45" target="##14" />
+    <edge source="#45" target="##15" />
+    <edge source="#46" target="#51" />
+    <edge source="#46" target="#52" />
+    <edge source="#47" target="#53" />
+    <edge source="#47" target="#54" />
+    <edge source="#48" target="#55" />
+    <edge source="#48" target="#56" />
+    <edge source="#49" target="#57" />
+    <edge source="#49" target="#58" />
+    <edge source="#51" target="#59" />
+    <edge source="#52" target="#60" />
+    <edge source="#53" target="#61" />
+    <edge source="#54" target="#62" />
+    <edge source="#55" target="#63" />
+    <edge source="#56" target="#64" />
+    <edge source="#57" target="#65" />
+    <edge source="#58" target="#66" />
+    <edge source="#59" target="#67" />
+    <edge source="#59" target="#68" />
+    <edge source="#59" target="#69" />
+    <edge source="#59" target="#70" />
+    <edge source="#60" target="#71" />
+    <edge source="#60" target="#72" />
+    <edge source="#60" target="#73" />
+    <edge source="#61" target="#74" />
+    <edge source="#61" target="#75" />
+    <edge source="#61" target="#76" />
+    <edge source="#61" target="#77" />
+    <edge source="#62" target="#78" />
+    <edge source="#62" target="#79" />
+    <edge source="#62" target="#80" />
+    <edge source="#63" target="#81" />
+    <edge source="#63" target="#82" />
+    <edge source="#64" target="#83" />
+    <edge source="#64" target="#84" />
+    <edge source="#64" target="#85" />
+    <edge source="#65" target="#86" />
+    <edge source="#65" target="#87" />
+    <edge source="#66" target="#88" />
+    <edge source="#66" target="#89" />
+    <edge source="#66" target="#90" />
+    <edge source="#67" target="#91" />
+    <edge source="#68" target="#92" />
+    <edge source="#69" target="#93" />
+    <edge source="#70" target="#94" />
+    <edge source="#74" target="#92" />
+    <edge source="#75" target="#95" />
+    <edge source="#76" target="#94" />
+    <edge source="#77" target="#96" />
+    <edge source="#81" target="#95" />
+    <edge source="#82" target="#91" />
+    <edge source="#86" target="#96" />
+    <edge source="#87" target="#93" />
+    <edge source="#91" target="#97" />
+    <edge source="#91" target="#98" />
+    <edge source="#91" target="#99" />
+    <edge source="#92" target="#97" />
+    <edge source="#92" target="#100" />
+    <edge source="#92" target="#101" />
+    <edge source="#93" target="#100" />
+    <edge source="#93" target="#102" />
+    <edge source="#93" target="#103" />
+    <edge source="#94" target="#98" />
+    <edge source="#94" target="#102" />
+    <edge source="#94" target="#104" />
+    <edge source="#95" target="#98" />
+    <edge source="#95" target="#97" />
+    <edge source="#95" target="#105" />
+    <edge source="#96" target="#102" />
+    <edge source="#96" target="#100" />
+    <edge source="#96" target="#106" />
+    <edge source="#97" target="#107" />
+    <edge source="#98" target="#108" />
+    <edge source="#99" target="#109" />
+    <edge source="#100" target="#110" />
+    <edge source="#101" target="#111" />
+    <edge source="#101" target="#112" />
+    <edge source="#102" target="#113" />
+    <edge source="#103" target="#114" />
+    <edge source="#104" target="#115" />
+    <edge source="#104" target="#116" />
+    <edge source="#105" target="#117" />
+    <edge source="#106" target="#118" />
+    <edge source="#109" target="#119" />
+    <edge source="#109" target="#120" />
+    <edge source="#109" target="#121" />
+    <edge source="#112" target="#122" />
+    <edge source="#114" target="#123" />
+    <edge source="#114" target="#124" />
+    <edge source="#114" target="#125" />
+    <edge source="#116" target="#126" />
+    <edge source="#117" target="#127" />
+    <edge source="#117" target="#128" />
+    <edge source="#117" target="#129" />
+    <edge source="#118" target="#130" />
+    <edge source="#118" target="#131" />
+    <edge source="#118" target="#132" />
+  </graph>
+</graphml>
